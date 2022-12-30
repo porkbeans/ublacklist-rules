@@ -1,4 +1,4 @@
 .PHONY: sort
 
 sort:
-	fd --glob 'ublacklist-*.txt' --exec sort -o {} {}
+	fd --glob 'ublacklist-*.txt' --exec sort -u -o {} {}
