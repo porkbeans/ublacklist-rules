@@ -1,1 +1,2 @@
 *://*.buzzvideo.com/*
+*://teratail.com/*
