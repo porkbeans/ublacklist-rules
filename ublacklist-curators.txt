@@ -1060,6 +1060,7 @@
 *://pan-pan.co/*
 *://*.papachagon.com/*
 *://*.papepons.com/*
+*://paradise-rentacar.jp/*
 *://paragon-style.com/*
 *://*.para-site.net/*
 *://*.parole-girl.com/*
