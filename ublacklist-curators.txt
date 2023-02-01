@@ -477,6 +477,7 @@
 *://*.gunosy.com/*
 *://*.gurimu-blog.com/*
 *://*.hachi8.me/*
+*://hachinan-game.com/*
 *://hack-news.biz/*
 *://*.haien-info.com/*
 *://haisininfo.com/*
