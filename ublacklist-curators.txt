@@ -509,6 +509,7 @@
 *://*.heartpopn.com/*
 *://*.he-fumu.com/*
 *://*.heikinnenshu.jp/*
+*://helpfulinfo-byrc.com/*
 *://helpful-news365.com/*
 *://he-news.com/*
 *://*.heylisten.blog.jp/*
