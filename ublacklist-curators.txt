@@ -1252,6 +1252,7 @@
 *://*.sokkuri.net/*
 *://*.soluziona.sk/*
 *://*.solve–solve.com/*
+*://*.soo-healthy.com/*
 *://sora-geinou.site/*
 *://*.sorakara-mile.com/*
 *://*.sora-ten.com/*
