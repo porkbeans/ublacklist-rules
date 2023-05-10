@@ -1487,6 +1487,7 @@
 *://*.worldcoin.site/*
 *://*.world.warotamaker.com/*
 *://*.wowpagos.com/*
+*://www.partitionwizard.jp/*
 *://xd756028.wp.xdomain.jp/*
 *://*.xn--1bv091a6ybix0d.xyz/*
 *://*.xn--2015-u53c4jh1513dca5n4767c4le.com/*
