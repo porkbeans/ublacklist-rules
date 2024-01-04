@@ -1,2 +1,3 @@
 *://*.buzzvideo.com/*
 *://teratail.com/*
+*://www.tiktok.com/*

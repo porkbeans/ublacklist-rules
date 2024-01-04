@@ -272,6 +272,7 @@
 *://dline.com/*
 *://*.dmm.2tyan.dmm-power.mixh.jp/*
 *://dococore.com/*
+*://dokujyoch.com/*
 *://dollcall-one.com/*
 *://*.dorama9.com/*
 *://*.doramabox.com/*
