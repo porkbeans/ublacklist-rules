@@ -1,4 +1,5 @@
 *://docs.amazonaws.cn/*
+*://gamelevate.com/*
 *://*.gamingdeputy.com/*
 *://*.moyens.net/*
 *://reviewtolearning.com/*
